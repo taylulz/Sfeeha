@@ -8,7 +8,8 @@ Two ways to tell the compiler it has changed are by assigning the variable to it
 	function addNumber() {
 		numbers.push(numbers.length + 1);
     // numbers = numbers;
-    numbers = [...numbers, numbers.length + 1];
+    // numbers = [...numbers, numbers.length + 1];
+    numbers[numbers.length] = numbers.length + 1;
 
 	}
 
