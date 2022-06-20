@@ -3,6 +3,8 @@
   import Counter from './lib/Counter.svelte'
   let count = 0;
   $: doubled = count * 2;
+  $: console.log('the count is ', count);
+  $: if (count > 10) alert('the count is ' + count)
 
 	function incrementCount() {
     count += 1;
