@@ -2,11 +2,13 @@
   // import Button from "./tutorial/button.svelte";
   // import Numbies from "./tutorial/numbies.svelte";
   // import Propies from "./tutorial/propies.svelte";
-  import Conditionals from "./tutorial/Conditionals.svelte";
+  // import Conditionals from "./tutorial/Conditionals.svelte";
+  import IfElse from "./tutorial/IfElse.svelte";
 </script>
 
 <!-- <Button/> -->
 <!-- <Numbies/> -->
 <!-- <Propies/> -->
-<Conditionals/>
+<!-- <Conditionals/> -->
+<IfElse/>
 
