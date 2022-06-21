@@ -4,7 +4,8 @@
   // import Propies from "./tutorial/propies.svelte";
   // import Conditionals from "./tutorial/Conditionals.svelte";
   // import IfElse from "./tutorial/IfElse.svelte";
-  import EachBlock from "./tutorial/EachBlock.svelte";
+  // import EachBlock from "./tutorial/EachBlock.svelte";
+  import Keyed from "./tutorial/Keyed.svelte";
 </script>
 
 <!-- <Button/> -->
@@ -12,5 +13,6 @@
 <!-- <Propies/> -->
 <!-- <Conditionals/> -->
 <!-- <IfElse/> -->
-<EachBlock/>
+<!-- <EachBlock/> -->
+<Keyed/>
 
