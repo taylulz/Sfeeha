@@ -5,7 +5,10 @@
   // import Conditionals from "./tutorial/Conditionals.svelte";
   // import IfElse from "./tutorial/IfElse.svelte";
   // import EachBlock from "./tutorial/EachBlock.svelte";
-  import Keyed from "./tutorial/Keyed.svelte";
+  // import Keyed from "./tutorial/Keyed.svelte";
+  import AwaitBlock from "./tutorial/AwaitBlock.svelte";
+
+
 </script>
 
 <!-- <Button/> -->
@@ -14,5 +17,6 @@
 <!-- <Conditionals/> -->
 <!-- <IfElse/> -->
 <!-- <EachBlock/> -->
-<Keyed/>
+<!-- <Keyed/> -->
+<AwaitBlock/>
 
